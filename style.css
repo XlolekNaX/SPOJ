@@ -1,3 +1,9 @@
+body {
+	background: #556472;
+	color: white;
+}
+
+
 table {
 	border-collapse: collapse;
 }
@@ -7,4 +13,9 @@ td {
 	border: 1px solid black;
 	padding: 2px 3px;
 	margin: 0;
+}
+
+
+a {
+	color: #2cf594;
 }
